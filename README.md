@@ -1,3 +1,16 @@
+  ### Hi there 👋,I'm xiaoxia.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+xiaoxia;" />
+  </h1>
+  
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Medicine.
+- 📫 How to reach me: 2905510140@qq.com
+- ![](https://github-readme-stats.vercel.app/api?username=xiaoxia&show_icons=true&theme=transparent)😃
+<details>
+ <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
+
 <header>
 
 <!--
