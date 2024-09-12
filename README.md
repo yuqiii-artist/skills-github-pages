@@ -1,4 +1,4 @@
-theme:minima<header>
+<header>
 
 <!--
   <<< Author notes: Course header >>>
